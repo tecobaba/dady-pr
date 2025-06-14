@@ -21,7 +21,7 @@ SelfHost TESTING<br>
 1, Clone the repo:<br>
 git clone https://github.com/MarkMCFC/tfms.xyz<br>
 
-2, SSH into the daddy folder:<br>
+2, SSH into the daddy folder (which is called tfms.xyz):<br>
 cd tfms.xyz<br>
 
 3, Launch the service:<br>
