@@ -19,7 +19,7 @@ See the json file for the stream urls<br>or use the urls from the quick setup gu
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
 ====================================================================================<br>
 <b>Quick Setup on huggyface Sign-In to huggy First</b><br>
-The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) Click the 3 dots next to settings/community and select duplicate this space, Give it a 'Name' & change it from 'Private to Public'<br>
+The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) Click the 3 dots next to settings/community and select 'Duplicate this space' Give it a 'Name' & change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/pigdad<br><br>
 To get the Stream urls in an m3u list see here<br>
 https://dadurls.netlify.app/<br>
