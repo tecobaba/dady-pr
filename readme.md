@@ -25,10 +25,10 @@ git clone https://github.com/MarkMCFC/tfms.xyz<br>
 cd daddylive<br>
 
 3, Launch the service:<br>
-docker-compose up -d --build<br><br>
+docker-compose up -d --build<br>
 
 Visit the proxy at<br>
-http://localhost:7860<br><br>
+http://localhost:7860<br>
 
 If You Need To Install Docker On Ubuntu:<br>
 snap install docker
