@@ -1,3 +1,4 @@
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging space etc<br>
-Use EXAMPLE: https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8
+Use EXAMPLE: https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
+The playlists will not download but the proxy still runs the direct urls
