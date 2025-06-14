@@ -3,7 +3,7 @@ Usual upload to hugging face etc<br>
 The playlists will not download but the proxy still runs the direct urls, Using the example below<br><br>
 How To Use EXAMPLE:<br>https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8
 
-Setup<br>
+HuggingFace Setup<br>
 1, Download the docker file <a href="https://github.com/MarkMCFC/tfms.xyz/blob/main/Dockerfile">Dockerfile</a><br>
 2, Now sign up for a FREE ACCOUNT - https://huggingface.co - This is going to host your proxy<br>
 3, On HuggingFace look to the top‑rightish corner & click 'Spaces' Then Click 'New Space'<br>
