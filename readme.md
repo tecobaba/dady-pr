@@ -22,7 +22,7 @@ SelfHost TESTING<br>
 git clone https://github.com/MarkMCFC/tfms.xyz<br>
 
 2, SSH into the daddy folder:<br>
-cd daddylive<br>
+cd tfms.xyz<br>
 
 3, Launch the service:<br>
 docker-compose up -d --build<br>
