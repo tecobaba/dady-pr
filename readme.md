@@ -18,9 +18,9 @@ See the json file for the stream urls<br>or use the urls from the quick setup gu
 10, Click the '3 Dots' next to settings<br>
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
 ====================================================================================<br>
-<b>Quick Setup on huggyface</b><br>
-The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) and click the 3 dots next to settings and select 'Duplicate Space' Give it a 'Name' & change it from 'Private to Public'<br>
-https://huggingface.co/spaces/markmcfc/testerrer<br><br>
+<b>Quick Setup on huggyface Sign-In to huggy First</b><br>
+The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) and Give it a 'Name' & change it from 'Private to Public'<br>
+https://huggingface.co/spaces/markmcfc/testerrer?duplicate=true<br><br>
 To get the Stream urls in an m3u list see here<br>
 https://dadurls.netlify.app/<br>
 ====================================================================================<br><br>
