@@ -20,7 +20,7 @@ How To Use EXAMPLE:<br>https://your.hugging.hf.space/proxy?url=https://new.newks
 The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) and click the 3 dots next to settings and select 'Duplicate Space' Give it a 'Name' & change it from 'Private to Public'<br>
 https://huggingface.co/spaces/markmcfc/testerrer<br><br>
 To get the Stream urls in an m3u list see here<br>
-http://tfms.xyz/ddy<br>
+https://dadurls.netlify.app/<br>
 ====================================================================================<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>
 
