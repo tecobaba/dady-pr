@@ -38,6 +38,7 @@ snap install docker<br><br>
 <b>Quick Setup</b><br>
 The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) and click the 3 dots next to settings and select 'Duplicate Space' Give it a 'Name' & change it from 'Private to Public'<br>
 https://huggingface.co/spaces/markmcfc/testerrer<br><br>
-To get the Stream urls in an m3u list see here - http://tfms.xyz/ddy
+To get the Stream urls in an m3u list see here<br>
+http://tfms.xyz/ddy
 
 
