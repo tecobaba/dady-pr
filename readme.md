@@ -1,7 +1,9 @@
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
 <b>The playlists will not download but the proxy still runs the direct urls, Using the example below</b><br><br>
-How To Use EXAMPLE:<br>https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8
+How To Use EXAMPLE:<br>
+https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
+See the json file for the stream urls or use the urls from the quick setup guide<br>
 
 <b>HuggingFace Setup</b><br>
 1, Download the docker file <a href="https://github.com/MarkMCFC/tfms.xyz/blob/main/Dockerfile">Dockerfile</a><br>
