@@ -1,6 +1,6 @@
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
-The playlists will not download but the proxy still runs the direct urls, Using the example below<br><br>
+<b>The playlists will not download but the proxy still runs the direct urls, Using the example below</b><br><br>
 How To Use EXAMPLE:<br>https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8
 
 HuggingFace Setup<br>
@@ -14,9 +14,9 @@ HuggingFace Setup<br>
 8, Click The Files Tab Then click 'Contribute' now click 'Upload Files' & upload the 'Docker file' from 'Part 1' (Drag & Drop)<br>
 9, Now Click 'Commit New File To Main' (Its at the bottom) & WAIT.... for the build to say 'RUNNING'<br>
 10, Click the '3 Dots' next to settings<br>
-11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br><br><br>
+11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br><br>
 
-SelfHost TESTING<br>
+<b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>
 
 1, Clone the repo:<br>
 git clone https://github.com/MarkMCFC/tfms.xyz<br>
@@ -29,6 +29,7 @@ docker-compose up -d --build<br>
 
 Visit the proxy at<br>
 http://localhost:7860<br>
+http://localhost:7860/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 
 If You Need To Install Docker On Ubuntu:<br>
 snap install docker
