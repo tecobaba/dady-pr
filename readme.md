@@ -16,7 +16,7 @@ HuggingFace Setup<br>
 10, Click the '3 Dots' next to settings<br>
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br><br><br>
 
-SelfHost TESTING<br><br>
+SelfHost TESTING<br>
 
 1, Clone the repo:<br>
 git clone https://github.com/MarkMCFC/tfms.xyz<br>
