@@ -17,13 +17,13 @@ See the json file for the stream urls<br>or use the urls from the quick setup gu
 9, Now Click 'Commit New File To Main' (Its at the bottom) & WAIT.... for the build to say 'RUNNING'<br>
 10, Click the '3 Dots' next to settings<br>
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
-====================================================================================<br>
+===========================================================================<br>
 <b>Quick Setup on huggyface Sign-In to huggy First</b><br>
 The easiest way to get pigzilla/daddylive 'Proxy' (see the huggingface url below) Click the 3 dots next to settings/community and select 'Duplicate this space' Give it a 'Name' & change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/pigdad<br><br>
 To get the Stream urls in an m3u list see here (Logos now fixed)<br>
 https://dadurls.netlify.app/<br>
-====================================================================================<br><br>
+===========================================================================<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>
 
 1, Clone the repo:<br>
