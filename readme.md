@@ -1,3 +1,5 @@
+<b>I am not the creator i am just an end user who figured out how to get it working again and im sharing the info</b><br><br>
+
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
 <b>The playlists will not download but the proxy still runs the direct urls, Using the example below</b><br><br>
