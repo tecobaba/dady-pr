@@ -29,7 +29,6 @@ Here is the daddy events list (you probably dont need this as it does not update
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
 If you already have a huggingface account pointing to pigzillaaaa daddylive streams then you already have the proxy<br>
 https://your.hugging.hf.space/<br>
-https://your.hugging.hf.space/proxy?url=<br>
 ===========================================================================<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>
 
