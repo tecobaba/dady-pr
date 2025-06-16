@@ -5,7 +5,7 @@ https://your.hugging.hf.space/playlist/events<br><br>
 
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
-<b>(NOW WORKING) The playlists will not download but the proxy still runs the direct urls, Using the example below</b><br><br>
+<b>(NOW WORKING) <del>The playlists will not download but the proxy still runs the direct urls, Using the example below</del></b><br><br>
 How To Use EXAMPLE:<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the json file for the stream urls<br><b>or use the urls from the quick setup guide below</b><br>
