@@ -1,4 +1,4 @@
-<b>FIXED WORKING</b> Reinstall on huggingface or local to get it working<br>
+<b>FIXED WORKING Reinstall on huggingface or local</b> to get it working<br>
 EDIT: You can now download the playlists<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
