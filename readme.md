@@ -38,7 +38,7 @@ https://pigdadevents-tfms-xyz.netlify.app/<br><br>
 If you already have a huggingface account pointing to pigzillaaaa daddylive streams then you already have the proxy<br>
 https://your.hugging.hf.space/<br>
 ===========================================================================<br><br>
-<b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>
+<b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide<br>
 
 1, Clone the repo:<br>
 git clone https://github.com/MarkMCFC/tfms.xyz<br>
