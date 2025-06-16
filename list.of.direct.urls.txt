@@ -1,0 +1,92 @@
+#EXTINF:-1,SS+
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+#EXTINF:-1,Hub1
+https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
+#EXTINF:-1,Premier Sports 1
+https://zekonew.newkso.ru/ddy6/premium771/mono.m3u8
+#EXTINF:-1,Optus Sport 1
+https://hztnew.newkso.ru/hzt/optussport1/mono.m3u8
+#EXTINF:-1,Optus Sport 1
+https://new.newkso.ru/hzt/optussport1/mono.m3u8
+#EXTINF:-1,Optus Sport 2
+https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
+#EXTINF:-1,Optus Sport 3
+https://hztnew.newkso.ru/hzt/optussport3/mono.m3u8
+#EXTINF:-1,Optus Sport 4
+https://hztnew.newkso.ru/hzt/optussport4/mono.m3u8
+#EXTINF:-1,Optus Sport 5
+https://hztnew.newkso.ru/hzt/optussport5/mono.m3u8
+#EXTINF:-1,Optus Sport 6
+https://hztnew.newkso.ru/hzt/optussport6/mono.m3u8
+#EXTINF:-1,Optus Sport 7
+https://hztnew.newkso.ru/hzt/optussport7/mono.m3u8
+#EXTINF:-1,Optus Sport 8
+https://hztnew.newkso.ru/hzt/optussport8/mono.m3u8
+#EXTINF:-1,Nova Sport Premier League
+https://windnew.newkso.ru/wind/premium599/mono.m3u8
+#EXTINF:-1,USA Network
+https://new.newkso.ru/ddh2/premium343/mono.m3u8
+#EXTINF:-1,Sky Sport 1 NZ
+https://new.newkso.ru/dokko1/premium588/mono.m3u8
+#EXTINF:-1,Sky Sport 2 NZ
+https://new.newkso.ru/dokko1/premium589/mono.m3u8
+#EXTINF:-1,Sky Sport 3 NZ
+https://new.newkso.ru/dokko1/premium590/mono.m3u8
+#EXTINF:-1,Sky Sport 4 NZ
+https://new.newkso.ru/dokko1/premium591/mono.m3u8
+#EXTINF:-1,Sky Sport 5 NZ
+https://new.newkso.ru/dokko1/premium592/mono.m3u8
+#EXTINF:-1,Sky Sport 6 NZ
+https://new.newkso.ru/dokko1/premium593/mono.m3u8
+#EXTINF:-1,Sky Sport 7 NZ
+https://new.newkso.ru/dokko1/premium594/mono.m3u8
+#EXTINF:-1,Sky Sport 8 NZ
+https://new.newkso.ru/dokko1/premium595/mono.m3u8
+#EXTINF:-1,Sky Sport 8 NZ
+https://x4new.newkso.ru/x4/skynz8/mono.m3u8
+#EXTINF:-1,Sky Sport 9 NZ
+https://new.newkso.ru/dokko1/premium596/mono.m3u8
+#EXTINF:-1,Sky Sport Select NZ
+https://new.newkso.ru/dokko1/premium587/mono.m3u8
+#EXTINF:-1,Sky Sports News
+https://new.newkso.ru/wind/premium366/mono.m3u8
+#EXTINF:-1,BBC 1
+https://new.newkso.ru/ddy6/premium356/mono.m3u8
+#EXTINF:-1,ITV 1
+https://new.newkso.ru/dokko1/premium350/mono.m3u8
+#EXTINF:-1,TNT Sports 1
+https://new.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
+#EXTINF:-1,TNT Sports 2
+https://nfsnew.newkso.ru/nfs/premium794/mono.m3u8
+#EXTINF:-1,TNT Sports 3
+https://new.newkso.ru/azo/eplayerdigitvbt3/mono.m3u8
+#EXTINF:-1,TNT Sports 4
+https://new.newkso.ru/azo/eplayerdigitvbt4/mono.m3u8
+#EXTINF:-1,Sky Sports Golf
+https://new.newkso.ru/wind/premium70/mono.m3u8
+#EXTINF:-1,Sky Sports Main Event
+https://new.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1,Sky Sports Main Event*
+https://top2.newkso.ru/top2/eplayerskymain2/mono.m3u8
+#EXTINF:-1,Sky Sports Premier League
+https://new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1,Sky Sports Football
+https://new.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1,Sky Sports Football*
+https://new.newkso.ru/top2/eplayerskyfoot/mono.m3u8
+#EXTINF:-1,Sky Sports F1
+https://new.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:-1,Sky Sports +
+https://new.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1,Fox Sport 1 USA
+https://new.newkso.ru/zeko/premium39/mono.m3u8
+#EXTINF:-1,Fox Soccer
+https://new.newkso.ru/zeko/premium54/mono.m3u8
+#EXTINF:-1,Astro Grandstand
+https://new.newkso.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1,Astro Premier League
+https://new.newkso.ru/zeko/premium124/mono.m3u8
+#EXTINF:-1,Astro Premier League 1
+https://new.newkso.ru/zeko/premium125/mono.m3u8
+#EXTINF:-1,Astro Premier League 2
+https://new.newkso.ru/zeko/premium126/mono.m3u8
