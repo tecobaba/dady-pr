@@ -1,5 +1,5 @@
 <b>FIXED WORKING Reinstall on huggingface or local</b> to get it working<br>
-EDIT1: You can now download the playlists - Reinstall the proxy on hugging, Create a new space or duplicate the below space<br>
+Edit1: You can now download the playlists - Reinstall the proxy on hugging, Create a new space or duplicate the below space<br>
 Edit2: Logos & EPG Fixed<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
