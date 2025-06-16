@@ -1,7 +1,7 @@
 <b>FIXED WORKING</b> Reinstall on huggingface or local to get it working<br>
 EDIT: You can now download the playlists thanks to devzero<br>
-https://your.hugging.hf.space//playlist/channels<br>
-https://your.hugging.hf.space//playlist/events<br><br>
+https://your.hugging.hf.space/playlist/channels<br>
+https://your.hugging.hf.space/playlist/events<br><br>
 
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
@@ -25,8 +25,8 @@ See the json file for the stream urls<br><b>or use the urls from the quick setup
 ===========================================================================<br>
 <b>FIXED WORKING</b><br>
 EDIT: You can now download the playlists thanks to devzero<br>
-https://your.hugging.hf.space//playlist/channels<br>
-https://your.hugging.hf.space//playlist/events<br><br>
+https://your.hugging.hf.space/playlist/channels<br>
+https://your.hugging.hf.space/playlist/events<br><br>
 <b>Quick Setup on huggyface Sign-In to huggy First</b><br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
