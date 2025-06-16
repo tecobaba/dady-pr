@@ -1,5 +1,5 @@
 <b>FIXED WORKING</b> Reinstall on huggingface or local to get it working<br>
-EDIT: You can now download the playlists thanks to devzero<br>
+EDIT: You can now download the playlists<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
 
@@ -24,7 +24,7 @@ See the json file for the stream urls<br><b>or use the urls from the quick setup
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
 ===========================================================================<br>
 <b>FIXED WORKING</b><br>
-EDIT: You can now download the playlists thanks to devzero<br>
+EDIT: You can now download the playlists<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
 <b>Quick Setup on huggyface Sign-In to huggy First</b><br>
