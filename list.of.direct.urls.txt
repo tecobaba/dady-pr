@@ -59,13 +59,13 @@ https://new.newkso.ru/ddy6/premium356/mono.m3u8
 #EXTINF:-1,ITV 1
 https://new.newkso.ru/dokko1/premium350/mono.m3u8
 #EXTINF:-1,TNT Sports 1
-https://new.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTINF:-1,TNT Sports 2
-https://nfsnew.newkso.ru/nfs/premium794/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 #EXTINF:-1,TNT Sports 3
-https://new.newkso.ru/azo/eplayerdigitvbt3/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
 #EXTINF:-1,TNT Sports 4
-https://new.newkso.ru/azo/eplayerdigitvbt4/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 #EXTINF:-1,Sky Sports Golf
 https://new.newkso.ru/wind/premium70/mono.m3u8
 #EXTINF:-1,Sky Sports Main Event
