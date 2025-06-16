@@ -1,5 +1,5 @@
 <b>FIXED WORKING Reinstall on huggingface or local</b> to get it working<br>
-EDIT: You can now download the playlists<br>
+EDIT: You can now download the playlists - Reinstall the proxy on hugging, Create a new space or duplicate the below space<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
 
