@@ -32,7 +32,7 @@ https://your.hugging.hf.space/playlist/events<br><br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
-To get the Stream urls in an m3u list see here (Logos now fixed, No EPG the source is deleted)<br>
+To get the Stream urls in an m3u list see here (or use the urls above)<br>
 https://dadurls.netlify.app/<br><br>
 Here is the daddy events list (you probably dont need this as it does not update but some have asked for it)<br>
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
