@@ -2,7 +2,7 @@
 Edit1: You can now download the playlists - Reinstall the proxy on hugging, Create a new space or duplicate the below space<br>
 Edit2: Logos & EPG Fixed<br>
 https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br><br>
+https://your.hugging.hf.space/playlist/events - Events list does not update unless i update it from my end manually everyday, sorry but i cant be bothered to do that<br><br>
 
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
