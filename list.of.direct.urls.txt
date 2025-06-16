@@ -31,27 +31,25 @@ https://windnew.newkso.ru/wind/premium599/mono.m3u8
 #EXTINF:-1,USA Network
 https://new.newkso.ru/ddh2/premium343/mono.m3u8
 #EXTINF:-1,Sky Sport 1 NZ
-https://new.newkso.ru/dokko1/premium588/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
 #EXTINF:-1,Sky Sport 2 NZ
-https://new.newkso.ru/dokko1/premium589/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
 #EXTINF:-1,Sky Sport 3 NZ
-https://new.newkso.ru/dokko1/premium590/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
 #EXTINF:-1,Sky Sport 4 NZ
-https://new.newkso.ru/dokko1/premium591/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
 #EXTINF:-1,Sky Sport 5 NZ
-https://new.newkso.ru/dokko1/premium592/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8
 #EXTINF:-1,Sky Sport 6 NZ
-https://new.newkso.ru/dokko1/premium593/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
 #EXTINF:-1,Sky Sport 7 NZ
-https://new.newkso.ru/dokko1/premium594/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
 #EXTINF:-1,Sky Sport 8 NZ
-https://new.newkso.ru/dokko1/premium595/mono.m3u8
-#EXTINF:-1,Sky Sport 8 NZ
-https://x4new.newkso.ru/x4/skynz8/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
 #EXTINF:-1,Sky Sport 9 NZ
-https://new.newkso.ru/dokko1/premium596/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
 #EXTINF:-1,Sky Sport Select NZ
-https://new.newkso.ru/dokko1/premium587/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8
 #EXTINF:-1,Sky Sports News
 https://new.newkso.ru/wind/premium366/mono.m3u8
 #EXTINF:-1,BBC 1
@@ -70,8 +68,6 @@ https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 https://new.newkso.ru/wind/premium70/mono.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://new.newkso.ru/zeko/premium38/mono.m3u8
-#EXTINF:-1,Sky Sports Main Event*
-https://top2.newkso.ru/top2/eplayerskymain2/mono.m3u8
 #EXTINF:-1,Sky Sports Premier League
 https://new.newkso.ru/dokko1/premium130/mono.m3u8
 #EXTINF:-1,Sky Sports Football
