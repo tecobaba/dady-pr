@@ -27,7 +27,7 @@ See the json file for the stream urls<br><b>or use the urls from the quick setup
 EDIT: You can now download the playlists<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
-<b>Quick Setup on huggyface Sign-In to huggy First</b><br>
+<b>Quick Setup on huggyface Sign-In to huggy First</b><br>Quick setup still working but you can now use the urls above<br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
