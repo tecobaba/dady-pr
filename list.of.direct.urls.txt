@@ -1,3 +1,6 @@
+Urls will be updated slowy over the next few days im lazy like that,<br>To get working use your huggingface proxy url<br>
+https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/zeko/premium38/mono.m3u8
+
 #EXTINF:-1,SS+
 https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 #EXTINF:-1,Hub1
