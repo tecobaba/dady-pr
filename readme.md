@@ -1,4 +1,7 @@
-<b>I am not the creator i am just an end user who figured out how to get it working again and im sharing the info</b><br><br>
+<b>FIXED WORKING</b><br>
+EDIT: You can now download the playlists thanks to devzero<br>
+https://your.hugging.hf.space//playlist/channels<br>
+https://your.hugging.hf.space//playlist/events<br><br>
 
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc<br>
