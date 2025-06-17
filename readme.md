@@ -1,14 +1,13 @@
 <b>FIXED WORKING Reinstall on huggingface or local</b> to get it working<br>
-Edit1: You can now download the playlists - Reinstall the proxy on hugging, Create a new space or duplicate the below space<br>
+EXAMPLE URLS<br>
 https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br><br>
+https://your.hugging.hf.space/playlist/events<br>
+OR<br>
+https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
+See the json file for the direct stream urls<br><b>or use the urls from the quick setup guide below</b><br><br>
 
 DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
-Usual upload to hugging face etc<br>
-<b>(NOW WORKING) <del>The playlists will not download but the proxy still runs the direct urls, Using the example below</del></b><br><br>
-How To Use EXAMPLE:<br>
-https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
-See the json file for the stream urls<br><b>or use the urls from the quick setup guide below</b><br>
+Usual upload to hugging face etc<br><br>
 
 <b>HuggingFace Setup</b><br>
 1, Download the docker file <a href="https://github.com/MarkMCFC/tfms.xyz/blob/main/Dockerfile">Dockerfile</a><br>
