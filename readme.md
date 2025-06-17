@@ -22,7 +22,7 @@ Usual upload to hugging face etc</b><br>
 10, Click the '3 Dots' next to settings<br>
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
 ===========================================================================<br>
-<b><h2>Quick Setup on huggyface Sign-In to huggy First</h2></b><br>Just duplicate this space<br><br>
+<b><h2>Quick Setup on huggyface Sign-In to huggy First</h2></b>Just duplicate this space<br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
