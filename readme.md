@@ -35,12 +35,7 @@ https://dadurls.netlify.app/<br><br>
 Here is the daddy events list (you probably dont need this as it does not update but some have asked for it)<br>
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
 If you already have a huggingface account pointing to pigzillaaaa daddylive streams then you already have the proxy<br>
-https://your.hugging.hf.space/<br>
-
-<b>FIXED WORKING</b><br>
-EDIT: You can now direct download the playlists<br>
-https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br><br>
+https://your.hugging.hf.space/<br><br>
 ===========================================================================<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
 
