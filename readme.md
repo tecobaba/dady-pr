@@ -25,10 +25,12 @@ Usual upload to hugging face etc</b><br>
 <b><h2>Quick Setup on huggyface Sign-In to huggy First</h2></b>Just duplicate this space<br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
-https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br>
+https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
+Example Urls<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
-Alternate Streams<br>
+
+Alternative Streams can still be used but you are best offusing the urls above<br>
 https://dadurls.netlify.app/<br><br>
 Here is the daddy events list (you probably dont need this as it does not update but some have asked for it)<br>
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
