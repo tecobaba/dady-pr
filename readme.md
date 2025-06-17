@@ -30,7 +30,7 @@ Example Urls<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events<br><br>
 
-The below playlist/streams can still be used but you are best off using the urls above<br>
+<b>The below playlist/streams can still be used but you are best off using the urls above</b><br>
 https://dadurls.netlify.app/<br><br>
 Here is the daddy events list (you probably dont need this as it does not update but some have asked for it)<br>
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
