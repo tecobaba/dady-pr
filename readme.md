@@ -6,8 +6,8 @@ OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the json file for the direct stream urls<br><br>
 
-DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
-Usual upload to hugging face etc<br><br>
+<b>DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
+Usual upload to hugging face etc</b><br>
 
 <b>HuggingFace Setup</b><br>
 1, Download the docker file <a href="https://github.com/MarkMCFC/tfms.xyz/blob/main/Dockerfile">Dockerfile</a><br>
