@@ -9,12 +9,20 @@ https://your.hugging.hf.space/playlist/events - Events wont update<br>
 OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the list.of.direct.urls.txt or json file for the direct stream urls<br>
-===========================================================================<br>
+===========================================================================<br><br>
+Quick setup, Sign-in to huggingface first<br>
 
-<b><h2>Quick Setup on huggyingface Sign-In to huggy First</b></h2>Just duplicate this space<br><br>
-The easiest way to get pigzilla/daddylive 'Proxy/Streams'<br>
-See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
-https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
+Click the url below then Click the 3 dots (top right side) & select duplicate this space<br>
+Give it a name and change it to public.<br>
+https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad<br>
+
+When the build says running<br>
+Click the '3 Dots' next to settings<br>
+Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br>
+
+Example of how to use your url<br>
+https://your-hugging.hf.space/playlist/channels<br>
+https://your-hugging.hf.space/playlist/events<br>
 ===========================================================================<br>
 
 <b>HuggingFace Self Setup for more advanced users</b><br>
