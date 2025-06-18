@@ -10,7 +10,7 @@ See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
 <b>DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
 Usual upload to hugging face etc</b><br>
 
-<b><h2>Quick Setup on huggyface Sign-In to huggy First</h2></b>Just duplicate this space<br>
+<b><h2>Quick Setup on huggyingface Sign-In to huggy First</h2></b>Just duplicate this space<br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
