@@ -11,7 +11,7 @@ https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8
 See the list.of.direct.urls.txt or json file for the direct stream urls<br>
 ===========================================================================<br>
 
-<b><h2>Quick Setup on huggyingface Sign-In to huggy First</h2>Just duplicate this space</b><br><br>
+<b><h2>Quick Setup on huggyingface Sign-In to huggy First</b></h2>Just duplicate this space<br><br>
 The easiest way to get pigzilla/daddylive 'Proxy/Streams'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
