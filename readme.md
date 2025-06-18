@@ -58,16 +58,4 @@ If You Need To Install Docker On Ubuntu:<br>
 snap install docker<br><br>
 <b>Full credit must go to:</b> <b><u>Pigzillaaaaa</u></b><br><br>
 See Forum, Join Up! Plenty of goodies will be offered - https://forum.tfms.xyz<br>
-Join our discord: https://discord.gg/F3MzfJAffG (#iptv)<br><br>
-
-===========================================================================<br>
-<h2>Vercel</h2>
-1. Sign up to https://vercel.com/signup and select Hobby then click **Deploy** button. <br><br>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/MarkMCFC/tfms.xyz" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
-<br><br>
-2, Connect your github account to vercel, set the scope and set the repository name (eg. dproxy) then click Create<br>
-3, Wait for the project to build. If you see a ":)" then you are good to go.<br>
-4, Go to the dashboard and under Domain, copy the url (eg. https://dproxy-g327.vercel.app).<br>
-5, Channels playlist is accessible via: https://dproxy-g327.vercel.app/playlist/channels. (Refresh playlist from your iptv player to update)<br>
-6, Events playlist is accessible via: https://dproxy-g327.vercel.app/playlist/events. (Refresh playlist from your iptv player to update)<br><br>
-Optional: Change the timeout(Function Max Duration) and location(Function Region) in Settings->Functions
+Join our discord: https://discord.gg/F3MzfJAffG (#iptv)
