@@ -19,6 +19,7 @@ Choose 'Embed this Space'. It will show you the url of the space. Your own proxy
 
 EXAMPLE HOW TO USE URL<br>
 https://your.hugging.hf.space/playlist/channels<br>
+
 ===========================================================================<br><br>
 <b>HuggingFace Self Setup for more advanced users</b><br>
 
