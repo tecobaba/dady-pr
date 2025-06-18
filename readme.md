@@ -14,9 +14,6 @@ Usual upload to hugging face etc</b><br>
 The easiest way to get pigzilla/daddylive 'Proxy/Streams'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
-Example Urls<br>
-https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br>
 ===========================================================================<br>
 
 <b>HuggingFace Self Setup for more advanced users</b><br>
