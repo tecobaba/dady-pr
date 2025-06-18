@@ -9,6 +9,7 @@ https://your.hugging.hf.space/playlist/events - Events wont update<br>
 OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the list.of.direct.urls.txt or json file for the direct stream urls<br>
+===========================================================================<br>
 
 <b><h2>Quick Setup on huggyingface Sign-In to huggy First</h2>Just duplicate this space</b><br><br>
 The easiest way to get pigzilla/daddylive 'Proxy/Streams'<br>
