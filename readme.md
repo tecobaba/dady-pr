@@ -16,15 +16,7 @@ See the huggingface url below Click the 3 dots (top right) & select 'Duplicate t
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
 Example Urls<br>
 https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br><br>
-
-<b>The below playlist/streams can still be used but you are best off using the urls above</b><br>
-https://dadurls.netlify.app/<br><br>
-Here is the daddy events list (you probably dont need this as it does not update but some have asked for it)<br>
-https://pigdadevents-tfms-xyz.netlify.app/<br><br>
-If you already have a huggingface account pointing to pigzillaaaa daddylive streams then you already have the proxy<br>
-https://your.hugging.hf.space/<br>
-
+https://your.hugging.hf.space/playlist/events<br>
 ===========================================================================<br><br>
 
 <b>HuggingFace Setup</b><br>
@@ -40,7 +32,7 @@ https://your.hugging.hf.space/<br>
 10, Click the '3 Dots' next to settings<br>
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
 ===========================================================================<br><br>
-<b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
+<b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from here - (https://dadurls.netlify.app/)<br>
 
 1, Clone the repo:<br>
 git clone https://github.com/MarkMCFC/tfms.xyz<br>
