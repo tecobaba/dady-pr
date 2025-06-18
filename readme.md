@@ -1,3 +1,6 @@
+<b>DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
+Usual upload to hugging face etc</b><br>
+
 <b>FIXED WORKING Reinstall on huggingface or local</b> to get it working.<br>
 
 EXAMPLE URLS<br>
@@ -5,10 +8,7 @@ https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events - Events wont update<br>
 OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
-See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
-
-<b>DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
-Usual upload to hugging face etc</b><br>
+See the list.of.direct.urls.txt or json file for the direct stream urls<br>
 
 <b><h2>Quick Setup on huggyingface Sign-In to huggy First</h2>Just duplicate this space</b><br><br>
 The easiest way to get pigzilla/daddylive 'Proxy/Streams'<br>
