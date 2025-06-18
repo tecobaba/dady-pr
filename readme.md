@@ -7,7 +7,7 @@ OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
 ===========================================================================<br><br>
-<b>Quick setup, Sign-in/up to huggingface first - https://huggingface.co</b><br>
+<b>QUICK SETUP GUIDE, Sign-in/up to huggingface first - https://huggingface.co</b><br>
 
 Click the url below then Click the 3 dots (top right side) & select duplicate this space<br>
 Give it a name and change it to public.<br>
