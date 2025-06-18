@@ -14,7 +14,7 @@ Click the url below then Click the 3 dots (top right side) & select duplicate th
 Give it a <b>Name</b> and change it to <b>Public</b><br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad<br>
 
-When the build says running<br>
+<b>When the build says running</b><br>
 Click the '3 Dots' next to settings<br>
 Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br>
 
