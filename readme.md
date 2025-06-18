@@ -2,7 +2,7 @@
 
 EXAMPLE HOW TO USE URL<br>
 https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events - Events wont update<br>
+https://your.hugging.hf.space/playlist/events - Events List Will NOT UPDATE<br>
 OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
