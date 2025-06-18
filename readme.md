@@ -19,10 +19,6 @@ https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad<br>
 When the build says running<br>
 Click the '3 Dots' next to settings<br>
 Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br>
-
-Example of how to use your url<br>
-https://your-hugging.hf.space/playlist/channels<br>
-https://your-hugging.hf.space/playlist/events<br>
 ===========================================================================<br>
 
 <b>HuggingFace Self Setup for more advanced users</b><br>
