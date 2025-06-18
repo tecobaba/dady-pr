@@ -10,7 +10,7 @@ See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
 <b>QUICK SETUP GUIDE<br>
 Sign-in/up to huggingface first - https://huggingface.co</b><br>
 
-Click the url below then Click the 3 dots (top right side) & select <b>'Duplicate this space'</b><br>
+Visit the url below then Click the 3 dots (top right side) & select <b>'Duplicate this space'</b><br>
 Give it a <b>Name</b> and change it to <b>Public</b><br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad<br>
 
