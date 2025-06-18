@@ -19,7 +19,7 @@ Click the '3 Dots' next to settings<br>
 Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br>
 
 EXAMPLE HOW TO USE URL, Load into a browser to download the playlist<br>
-https://your.hugging.hf.space/playlist/channels<br>
+https://your.hugging.hf.space/playlist/channels <<< Matching to your own hf.space url<br>
 
 ===========================================================================<br><br>
 <b>HuggingFace Self Setup for more advanced users</b><br>
