@@ -1,4 +1,4 @@
-<b>DaddyLive Proxy Server (Formally Pigzillaaaaa) - FIXED WORKING Reinstall on huggingface or local to get it working.</b><br>
+<b>DaddyLive Proxy Server (Formally Pigzillaaaaa) - WORKING Install on huggingface or local to get it working.</b><br>
 
 EXAMPLE HOW TO USE URL<br>
 https://your.hugging.hf.space/playlist/channels<br>
