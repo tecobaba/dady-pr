@@ -1,0 +1,183 @@
+REPLACE: https://your.hugging.hf.space
+WITH: Your Own hf.space url
+
+#EXTINF:-1,LaLiga Tv
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium84/mono.m3u8
+#EXTINF:-1,LaLiga Tv Hypermotion
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
+#EXTINF:-1,Dazn LaLiga
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
+#EXTINF:-1,M CampeoneS
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium435/mono.m3u8
+#EXTINF:-1,#Vamos
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium521/mono.m3u8
+#EXTINF:-1,Movistar +
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium437/mono.m3u8
+#EXTINF:-1,M Deportes
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+#EXTINF:-1,M Deportes 2
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
+#EXTINF:-1,M Deportes 3
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
+#EXTINF:-1,M Deportes 4
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8
+#EXTINF:-1,Movistar Golf
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8
+#EXTINF:-1,Dazn 1
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium445/mono.m3u8
+#EXTINF:-1,Dazn 2
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
+#EXTINF:-1,Dazn F1
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+#EXTINF:-1,EuroSport 1
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
+#EXTINF:-1,EuroSport 2
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8
+#EXTINF:-1,OneToro
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
+#EXTINF:-1,Gol Play
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium530/mono.m3u8
+#EXTINF:-1,TDP
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8
+#EXTINF:-1,TUDN
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8
+#EXTINF:-1,Fox Deportes
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
+#EXTINF:-1,FoxSport 1
+https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium929/mono.m3u8
+#EXTINF:-1,FoxSport 1
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium787/mono.m3u8
+#EXTINF:-1,FoxSport 2
+https://your.hugging.hf.space/proxy?url=https://nfsnew.koskoros.ru/nfs/premium930/mono.m3u8
+#EXTINF:-1,FoxSport 2
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium788/mono.m3u8
+#EXTINF:-1,FoxSport 3
+https://your.hugging.hf.space/proxy?url=https://nfsnew.koskoros.ru/nfs/premium931/mono.m3u8
+#EXTINF:-1,FoxSport 3
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium789/mono.m3u8
+#EXTINF:-1,FoxSport Premium
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8
+#EXTINF:-1,ESPN Deportes
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+#EXTINF:-1,ESPN
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+#EXTINF:-1,ESPN 2
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium150/mono.m3u8
+#EXTINF:-1,Sport tv 1
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium49/mono.m3u8
+#EXTINF:-1,Sport tv 2
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+#EXTINF:-1,Sport tv 3
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
+#EXTINF:-1,Sport tv 4
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+#EXTINF:-1,Sport tv 5
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
+#EXTINF:-1,Sport tv 6
+https://your.hugging.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
+#EXTINF:-1,CBS Sports
+https://your.hugging.hf.space/proxy?url=https://nix1-dc4new.iosplayer.ru/nix1-dc4/cbssn/mono.m3u8
+#EXTINF:-1,CBS Sports
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+#EXTINF:-1,FS1
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+#EXTINF:-1,FS2
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
+#EXTINF:-1,Fox 502
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium820/mono.m3u8
+#EXTINF:-1,Fox 503
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium821/mono.m3u8
+#EXTINF:-1,Fox 504
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium822/mono.m3u8
+#EXTINF:-1,Fox 505
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium823/mono.m3u8
+#EXTINF:-1,Fox 506
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium824/mono.m3u8
+#EXTINF:-1,Fox 507
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium825/mono.m3u8
+#EXTINF:-1,ESPN
+https://your.hugging.hf.space/proxy?url=https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8
+#EXTINF:-1,ESPN 2
+https://your.hugging.hf.space/proxy?url=https://windnew.koskoros.ru/wind/premium45/mono.m3u8
+#EXTINF:-1,ESPN 2
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium45/mono.m3u8
+#EXTINF:-1,Bein Sport
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
+#EXTINF:-1,NBA Tv
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+#EXTINF:-1,NFL Network
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium405/mono.m3u8
+#EXTINF:-1,TSN 1
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+#EXTINF:-1,TSN 2
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+#EXTINF:-1,TSN 3
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+#EXTINF:-1,TSN 4
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+#EXTINF:-1,TSN 5
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+#EXTINF:-1,Eurosport 1
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium41/mono.m3u8
+#EXTINF:-1,Eurosport 1
+https://your.hugging.hf.space/proxy?url=https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayereurosp1/mono.m3u8
+#EXTINF:-1,Eurosport 2
+https://your.hugging.hf.space/proxy?url=https://windnew.koskoros.ru/wind/premium42/mono.m3u8
+#EXTINF:-1,Eurosport 2
+https://your.hugging.hf.space/proxy?url=https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayereurosp2/mono.m3u8
+#EXTINF:-1,TNT Sports 1
+https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+#EXTINF:-1,TNT Sports 1
+https://your.hugging.hf.space/proxy?url=https://azonew.koskoros.ru/azo/eplayerdigitvbt1/mono.m3u8
+#EXTINF:-1,TNT Sports 2
+https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+#EXTINF:-1,TNT Sports 2
+https://your.hugging.hf.space/proxy?url=https://azonew.koskoros.ru/azo/eplayerdigitvbt2/mono.m3u8
+#EXTINF:-1,TNT Sports 3
+https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+#EXTINF:-1,TNT Sports 3
+https://your.hugging.hf.space/proxy?url=https://azonew.koskoros.ru/azo/eplayerdigitvbt3/mono.m3u8
+#EXTINF:-1,TNT Sports 4
+https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+#EXTINF:-1,TNT Sports 4
+https://your.hugging.hf.space/proxy?url=https://azonew.koskoros.ru/azo/eplayerdigitvbt4/mono.m3u8
+#EXTINF:-1,TNT Sports 5
+https://your.hugging.hf.space/proxy?url=https://azonew.koskoros.ru/azo/eplayerdigitvbt5/mono.m3u8
+#EXTINF:-1,TNT Sports 6
+https://your.hugging.hf.space/proxy?url=https://azonew.koskoros.ru/azo/eplayerdigitvbt6/mono.m3u8
+#EXTINF:-1,Sky Sports F1
+https://your.hugging.hf.space/proxy?url=https://esx1new.koskoros.ru/esx1/primaskyf1/mono.m3u8
+#EXTINF:-1,Sky Sports F1
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:-1,Sky Sports Football
+https://your.hugging.hf.space/proxy?url=https://top2new.iosplayer.ru/top2/eplayerskyfoot/mono.m3u8
+#EXTINF:-1,Sky Sports Football
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1,Sky Sports Premier League
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1,Sky Sports NFL
+https://your.hugging.hf.space/proxy?url=https://top2new.iosplayer.ru/top2/skyaction/mono.m3u8
+#EXTINF:-1,Sky Sports NFL
+https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
+#EXTINF:-1,Sky Sports Arena
+https://your.hugging.hf.space/proxy?url=https://top2new.koskoros.ru/top2/skyarena/mono.m3u8
+#EXTINF:-1,Sky Sports Arena
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://your.hugging.hf.space/proxy?url=https://top2new.koskoros.ru/top2/eplayerskycric/mono.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium65/mono.m3u8
+#EXTINF:-1,Sky Sports Golf
+https://your.hugging.hf.space/proxy?url=https://top2new.iosplayer.ru/top2/skygolf/mono.m3u8
+#EXTINF:-1,Sky Sports Golf
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium70/mono.m3u8
+#EXTINF:-1,Sky Sports Main Event
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1,Racing Tv
+https://your.hugging.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
+#EXTINF:-1,Eurosport 1
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+#EXTINF:-1,Eurosport 2
+https://your.hugging.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+#EXTINF:-1,Rally Tv
+https://your.hugging.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
