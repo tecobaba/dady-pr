@@ -220,9 +220,31 @@ https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/zeko/premium125/mo
 #EXTINF:-1,Astro Premier League 2
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/zeko/premium126/mono.m3u8
 #EXTINF:-1,BBC 1
-https://new.newkso.ru/ddy6/premium356/mono.m3u8
+https://your.hugging.hf.space/proxy?urlhttps://new.newkso.ru/ddy6/premium356/mono.m3u8
 #EXTINF:-1,ITV 1
-https://new.newkso.ru/dokko1/premium350/mono.m3u8
+https://your.hugging.hf.space/proxy?urlhttps://new.newkso.ru/dokko1/premium350/mono.m3u8
+#EXTINF:-1,Optus Sport 1
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport1/mono.m3u8
+#EXTINF:-1,Optus Sport 1
+https://your.hugging.hf.space/proxy?urlhttps://new.newkso.ru/hzt/optussport1/mono.m3u8
+#EXTINF:-1,Optus Sport 2
+https://your.hugging.hf.space/proxy?urlhttps://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
+#EXTINF:-1,Optus Sport 3
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport3/mono.m3u8
+#EXTINF:-1,Optus Sport 4
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport4/mono.m3u8
+#EXTINF:-1,Optus Sport 5
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport5/mono.m3u8
+#EXTINF:-1,Optus Sport 6
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport6/mono.m3u8
+#EXTINF:-1,Optus Sport 7
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport7/mono.m3u8
+#EXTINF:-1,Optus Sport 8
+https://your.hugging.hf.space/proxy?urlhttps://hztnew.newkso.ru/hzt/optussport8/mono.m3u8
+#EXTINF:-1,Nova Sport Premier League
+https://your.hugging.hf.space/proxy?urlhttps://windnew.newkso.ru/wind/premium599/mono.m3u8
+#EXTINF:-1,USA Network
+https://your.hugging.hf.space/proxy?urlhttps://new.newkso.ru/ddh2/premium343/mono.m3u8
 
 UK & USA TV
 https://your.hugging.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
