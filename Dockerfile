@@ -16,6 +16,6 @@ RUN pip install flask curl-cffi m3u8 gunicorn
 
 ENV PYTHONPATH=/app
 
-EXPOSE 7860
+EXPOSE 7870
 
 CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "0.0.0.0:7860", "proxy:app"]
